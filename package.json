@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/GRiveroll86/blog/issues"
   },
+  "engine": {
+    "node":"14.17.6"
+  },
   "homepage": "https://github.com/GRiveroll86/blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
